@@ -1,1 +1,8 @@
 /* Here is your custom css styles. */
+@font-face {
+    font-family: "diy";
+    src: url("../font/hanyimaqiduojian.ttf");
+}
+*{
+    font-family: "diy";
+}
